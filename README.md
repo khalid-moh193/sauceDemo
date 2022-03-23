@@ -1,6 +1,6 @@
 # SauceDemo Project
 
-###Maven project using TestNG, Selenium Webdriver with POM design pattern and Allure reporting
+### Maven project using TestNG, Selenium Webdriver with POM design pattern and Allure reporting
 
 >1. Clone the project from https://github.com/khalid-moh193/sauceDemo
 
